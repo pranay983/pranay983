@@ -129,7 +129,7 @@ LLMs
 ## 👨‍💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,java,sql"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,sql"/>
 </p>
 
 ## 🎨 Frontend
